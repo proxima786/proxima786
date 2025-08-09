@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Analysing the dichotomy of Lyman Break Galaxies(LBGs) and Lyman May alpha emitters(LAEs) by means of their Lumniosity functions**
+- 🔭 I am currently a Master's student studying at Ludwig Maximilian University of Munich.
 
 - 👨‍💻 All of my projects are available at [https://jebraanjamil.wixsite.com/cosmoboy](https://jebraanjamil.wixsite.com/cosmoboy)
 
